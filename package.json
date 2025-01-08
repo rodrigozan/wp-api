@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rodrigozan/zanurl-api"
+    "url": "https://github.com/rodrigozan/wp-api"
   },
   "scripts": {
     "start:dev": "nodemon",
